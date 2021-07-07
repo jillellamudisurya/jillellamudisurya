@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Jillellamudi</h1>
 - 🔭 I’m currently working on https://github.com/jillellamudisurya/ID-Card-Scanner
 
-- 🌱 I’m currently learning **Flutter, Java Script, React, Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 👀 Interested in learning **New things**
 
