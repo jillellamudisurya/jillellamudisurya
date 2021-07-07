@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
--📧 Contact me **suryajillellamudi@gmail.com**
+- 📧 Contact me **suryajillellamudi@gmail.com**
 
 <h3 align="left">Avaialable:</h3>
 <p align="left">
