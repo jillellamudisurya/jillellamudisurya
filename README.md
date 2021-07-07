@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Jillellamudi</h1>
 - 🔭 I’m currently working on <a href="https://github.com/jillellamudisurya/ID-Card-Scanner" target="blank">Barcode Based Leave Management System</a>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning <a href="https://flutter.dev/" target="blank">**Flutter**</a>
 
 - 👀 Interested in learning **New things**
 
