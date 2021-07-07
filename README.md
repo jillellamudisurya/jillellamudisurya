@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">**Flutter**</a>
 
-- 📁 Check all my projects <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
+- 📁 Check all my projects -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
 
 - 👀 Eager to learn **New things**
 
