@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Jillellamudi</h1>
--  🔭 I’m currently working on <a href="https://github.com/jillellamudisurya/ID-Card-Scanner" target="_blank" rel="noopener noreferrer">Barcode Based Leave Management System</a>
+  - 🔭 I’m currently working on <a href="https://github.com/jillellamudisurya/ID-Card-Scanner" target="_blank" rel="noopener noreferrer">Barcode Based Leave Management System</a>
 
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">**Flutter**</a>
 
