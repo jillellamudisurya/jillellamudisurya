@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/jillellamudisurya/ID-Card-Scanner" target="_blank" rel="noopener noreferrer">**Barcode Based Leave Management System**</a>
 
-- 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">**Flutter**</a>
+- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">**MERN STACK**</a>
 
 - 📁 Check all my projects -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
 
 - 👀 Eager to learn **New things**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **MERN Stack || Flutter || Python || PostgreSQL**
 
 - 📧 Contact me **suryajillellamudi@gmail.com**
 
