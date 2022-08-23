@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Jillellamudi</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jillellamudisurya&label=Profile%20views&color=0e75b6&style=flat" alt="suryajillellamudi" /> </p>
+
 - 🔭 I’m currently working on <a href="https://github.com/jillellamudisurya/ID-Card-Scanner" target="_blank" rel="noopener noreferrer">**Barcode Based Leave Management System**</a>
 
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">**MERN STACK**</a>
