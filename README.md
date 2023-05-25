@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noopener noreferrer">**FLUTTER**</a> and <a href="https://nextjs.org/">**Next.js**</a>
 
-- 📁 You Can see all My Projects Here![More on the Way] -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
+- 📁 You Can see all My Projects Here! [More on the Way] -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
 
 - 📧 Contact me **suryajillellamudi@gmail.com**
 
