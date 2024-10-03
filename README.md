@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Software Engineer** at <a href="https://praja.buzz/" target="_blank">**Praja**</a>
 
-- Know More about me here <a href="suryajillellamudi.com" target="_blank">suryajillellamudi.com</a>
+- Know More about me here <a href="https://suryajillellamudi.com" target="_blank">suryajillellamudi.com</a>
 
 - 🌱 I’m currently learning <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noopener noreferrer">**FLUTTER**</a> & <a href="https://nextjs.org/docs" target="_blank"> **NEXT.js**</a>
 
