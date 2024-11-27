@@ -6,7 +6,7 @@
 
 - Know More about me here <a href="https://suryajillellamudi.com" target="_blank">suryajillellamudi.com</a>
 
-- 🌱 I’m currently learning <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noopener noreferrer">**FLUTTER**</a> & <a href="https://nextjs.org/docs" target="_blank"> **NEXT.js**</a>
+- 🌱 I’m currently learning <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noopener noreferrer">**Flutter**</a>, <a href="https://nextjs.org/docs" target="_blank"> **Next.js**</a> & <a href="https://docs.oracle.com/en/java/" target="_blank"> **Java**</a>
 
 - 📁 You Can see all My Projects Here! [More on the Way] -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
 
