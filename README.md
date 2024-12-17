@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillellamudisurya&show_icons=true&locale=en" alt="jillellamudisurya" /></p> -->
 
 ### My Stats🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jillellamudisurya&theme=dark)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=jillellamudisurya&theme=dark))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jillellamudisurya&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jillellamudisurya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
