@@ -1,48 +1,126 @@
-<h1 align="center">Hi 👋, I'm Surya Jillellamudi</h1>
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Jillellamudi;Software+Engineer+%7C+Developer;Flutter+%7C+Next.js+%7C+React" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jillellamudisurya&label=Profile%20views&color=brightgreen&style=flat" alt="suryajillellamudi" /> </p>
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=jillellamudisurya&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://suryajillellamudi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-suryajillellamudi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
-- 🔭 I’m currently working as **Software Engineer** at <a href="https://praja.buzz/" target="_blank">**Praja**</a>
+## 🚀 About Me
 
-- Know More about me here <a href="https://suryajillellamudi.com" target="_blank">suryajillellamudi.com</a>
+I'm a passionate **Software Engineer** currently working at [**Praja**](https://praja.buzz/). I specialize in building responsive and user-friendly applications using modern technologies. With a strong foundation in both frontend and backend development, I enjoy creating seamless digital experiences that solve real-world problems.
 
-- 🌱 I’m currently learning <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noopener noreferrer">**Flutter**</a>, <a href="https://nextjs.org/docs" target="_blank"> **Next.js**</a> & <a href="https://docs.oracle.com/en/java/" target="_blank"> **Java**</a>
+- 🔭 I'm currently working on enhancing my skills in **Flutter**, **Next.js**, and **Java**
+- 🌱 I'm constantly learning and exploring new technologies to stay at the cutting edge
+- 💼 I have experience working with various frameworks and languages including React, Flutter, and JavaScript
+- 🎯 My goal is to contribute to innovative projects that make a positive impact
 
-- 📁 You Can see all My Projects Here! [More on the Way] -> <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank" rel="noopener noreferrer">**Projects**</a> 
+## 💻 Tech Stack
 
-- 📧 Contact me **suryajillellamudi@gmail.com**
+<div style="text-align: center;">
 
-<h3 align="left">Avaialable:</h3>
-<p align="left">
+### Frontend Development
 
-<a href="https://www.linkedin.com/in/suryajillellamudi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jillellamudi-surya-99a65a198/" height="30" width="40" title="LinkedIn" /></a>
-  <a href="https://twitter.com/suryachowdary_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryachowdary_" height="30" width="40" title="Twitter"/></a>
-<a href="https://fb.com/surya.jillellamudi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surya.jillellamudi" height="30" width="40" title="facebook" /></a>
-<a href="https://instagram.com/suryajillellamudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryajillellamudi/" height="30" width="40" title="Instagram" /></a>
+<p style="text-align: center;">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://react.dev/learn" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/> </a> 
-<a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40" title="Dart"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" title="Android"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Java Script"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a>
-<a href="https://nextjs.org/docs" targe="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40" title="Next.js"/></a>
-  <a href="https://react.dev/learn" targe="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/></a>
+### Mobile Development
+
+<p style="text-align: center;">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
 </p>
 
+### Programming Languages
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jillellamudisurya&show_icons=true&locale=en&layout=compact" alt="jillellamudisurya" /></p>
+<p style="text-align: center;">
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillellamudisurya&show_icons=true&locale=en" alt="jillellamudisurya" /></p> -->
+</div>
 
-### My Stats🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jillellamudisurya&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=jillellamudisurya&theme=dark)
+## 🔥 Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jillellamudisurya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillellamudisurya&repo=flutter_portfolio&theme=tokyonight)](https://github.com/jillellamudisurya/flutter_portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillellamudisurya&repo=react-portfolio&theme=tokyonight)](https://github.com/jillellamudisurya/react-portfolio)
+
+</div>
+
+<p style="text-align: center;">
+  <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-1F6FEB?style=for-the-badge" alt="View All Projects" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div style="text-align: center;">
+  <img src="https://streak-stats.demolab.com?user=jillellamudisurya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jillellamudisurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillellamudisurya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🌐 Connect With Me
+
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/suryajillellamudi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/suryachowdary_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/suryajillellamudi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/surya.jillellamudi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p style="text-align: center;">
+  <a href="mailto:suryajillellamudi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+## 🎯 Quick Facts
+
+- 📚 Always eager to learn new technologies
+- 🌍 Love to explore new places and cultures
+- ☕ Coffee enthusiast
+- 🎮 Enjoy gaming in my free time
 
 ---
+
+<div style="text-align: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=jillellamudisurya&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jillellamudisurya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+together!" alt="Typing SVG" />
+</div>
