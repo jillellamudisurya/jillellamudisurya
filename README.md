@@ -49,18 +49,9 @@ I'm a passionate **Software Engineer** currently working at [**Praja**](https://
 
 </div>
 
-## 🔥 Featured Projects
-
-<div style="text-align: center;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillellamudisurya&repo=flutter_portfolio&theme=tokyonight)](https://github.com/jillellamudisurya/flutter_portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillellamudisurya&repo=react-portfolio&theme=tokyonight)](https://github.com/jillellamudisurya/react-portfolio)
-
-</div>
-
 <p style="text-align: center;">
   <a href="https://github.com/jillellamudisurya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-1F6FEB?style=for-the-badge" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View%20My%20Projects-1F6FEB?style=for-the-badge" alt="View My Projects" />
   </a>
 </p>
 
