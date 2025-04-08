@@ -57,15 +57,6 @@ I'm a passionate **Software Engineer** currently working at [**Praja**](https://
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak Stats -->
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jillellamudisurya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jillellamudisurya&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=jillellamudisurya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </picture>
-</div>
-
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=jillellamudisurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillellamudisurya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
