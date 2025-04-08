@@ -57,10 +57,13 @@ I'm a passionate **Software Engineer** currently working at [**Praja**](https://
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Streak Stats -->
 <div style="text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jillellamudisurya&theme=dark&hide_border=true&background=0D1117&stroke=0000" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jillellamudisurya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jillellamudisurya&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=jillellamudisurya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div style="text-align: center;">
